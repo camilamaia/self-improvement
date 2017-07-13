@@ -5,7 +5,7 @@
 * Algorithm Complexity
 * Sorting
 * Data Structures: Hashtables, Trees and Graphs mainly
-* Web Development
-* Tests: unit, integration
+* Web Development / HTTP
+* Tests: unit, integration / TDD
 * NP-complete problems
 * DDD - Domain Driven Design
