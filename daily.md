@@ -1,5 +1,6 @@
 # Daily
 
 * [HackerRank](https://www.hackerrank.com)
-* [Sololearn](https://www.sololearn.com)
+* [SoloLearn](https://www.sololearn.com)
 * [Project Euler](https://projecteuler.net)
+* [CondinGame](https://www.codingame.com/)
