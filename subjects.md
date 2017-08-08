@@ -9,3 +9,5 @@
 * Tests: unit, integration / TDD
 * NP-complete problems
 * DDD - Domain Driven Design
+* Computer architecture
+
