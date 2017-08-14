@@ -1,5 +1,6 @@
 # Books
 
+* [Django Documentation](https://docs.djangoproject.com/en/1.11/)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org)
 * [Desconstruindo a Web](https://www.casadocodigo.com.br/products/livro-desconstruindo-web)
 * [Pro Git](https://git-scm.com/book/en/v2)
