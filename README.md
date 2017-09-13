@@ -7,4 +7,5 @@ Table of Contents
   * [Courses](https://github.com/camilamaia/self-improvement/blob/master/courses.md)
   * [Daily](https://github.com/camilamaia/self-improvement/blob/master/daily.md)
   * [Events](https://github.com/camilamaia/self-improvement/blob/master/events.md)
+  * [Projects](https://github.com/camilamaia/self-improvement/blob/master/projects.md)
   * [Subjects](https://github.com/camilamaia/self-improvement/blob/master/subjects.md)
