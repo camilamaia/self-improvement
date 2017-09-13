@@ -75,7 +75,12 @@ Daily
 
 Events
 =================
-
+* Python Brasil
+* Floripa Python Meetups
+* Django Girls
+* Ruby Conf
+- [x] [Rails Girls](http://railsgirls.com)
+- [x] [Ruby Floripa Meetups](https://www.meetup.com/rubyfloripa/)
 
 Projects
 =================
