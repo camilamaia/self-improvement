@@ -2,10 +2,82 @@
 
 Repository dedicated to guide my professional growth
 
-Table of Contents
-  * [Books](https://github.com/camilamaia/self-improvement/blob/master/books.md)
-  * [Courses](https://github.com/camilamaia/self-improvement/blob/master/courses.md)
-  * [Daily](https://github.com/camilamaia/self-improvement/blob/master/daily.md)
-  * [Events](https://github.com/camilamaia/self-improvement/blob/master/events.md)
-  * [Projects](https://github.com/camilamaia/self-improvement/blob/master/projects.md)
-  * [Subjects](https://github.com/camilamaia/self-improvement/blob/master/subjects.md)
+Table of contents
+=================
+
+  * [Subjects](#subjects)
+  * [Books](#books)
+  * [Courses](#courses)
+  * [Daily](#daily)
+  * [Events](#events)
+  * [Projects](#projects)
+
+Subjects
+=================
+
+* Software architecture
+* Design patterns
+* Algorithm Complexity
+* Sorting
+* Data Structures: Hashtables, Trees and Graphs mainly
+* Web Development / HTTP
+* Tests: unit, integration / TDD
+* NP-complete problems
+* DDD - Domain Driven Design
+* Computer architecture
+
+[Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+Books
+=================
+
+* [Django Documentation](https://docs.djangoproject.com/en/1.11/)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org)
+* [Desconstruindo a Web](https://www.casadocodigo.com.br/products/livro-desconstruindo-web)
+* [Pro Git](https://git-scm.com/book/en/v2)
+* [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=sr_1_1?ie=UTF8&keywords=code+charles+petzold&qid=1429631776&sr=8-1)
+
+https://teachyourselfcs.com
+https://diariodebordo.creditas.com.br/como-se-tornar-um-desenvolvedor-de-software-profissional/
+
+Courses
+=================
+
+* https://www.youtube.com/user/StevenSkiena
+
+### Coursera
+
+* https://www.coursera.org/specializations/algorithms
+* https://www.coursera.org/specializations/data-structures-algorithms
+* https://www.coursera.org/learn/algorithms-part1
+* https://www.coursera.org/learn/algorithms-part2
+
+### MIT
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/
+
+https://www.quantopian.com/lectures
+
+### Recommendations
+
+* https://github.com/katcipis/books/blob/master/mooc.md
+
+Daily
+=================
+
+* [HackerRank](https://www.hackerrank.com)
+* [SoloLearn](https://www.sololearn.com)
+* [Project Euler](https://projecteuler.net)
+* [TopCoder](https://www.topcoder.com/)
+* [CodeChef](https://www.codechef.com/)
+
+Events
+=================
+
+*
+
+Projects
+=================
+
+*
