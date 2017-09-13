@@ -1,4 +1,5 @@
-# self.improvement
+SELF.IMPROVEMENT
+=================
 
 Repository dedicated to guide my professional growth
 
@@ -75,9 +76,7 @@ Daily
 Events
 =================
 
-*
 
 Projects
 =================
 
-*
