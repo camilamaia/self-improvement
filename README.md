@@ -48,15 +48,15 @@ Courses
 
 ### Coursera
 
-* https://www.coursera.org/specializations/algorithms
-* https://www.coursera.org/specializations/data-structures-algorithms
-* https://www.coursera.org/learn/algorithms-part1
-* https://www.coursera.org/learn/algorithms-part2
+* [Learn To Think Like A Computer Scientist](https://www.coursera.org/specializations/algorithms)
+* [Master Algorithmic Programming Techniques](https://www.coursera.org/specializations/data-structures-algorithms)
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
 ### MIT
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/
+* [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
+* [Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 
 https://www.quantopian.com/lectures
 
