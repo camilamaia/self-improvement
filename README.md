@@ -32,6 +32,7 @@ Subjects
 Books
 =================
 
+* [Two Scoops of Django 1.11: Best Practices for the Django Web Framework](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
 * [Django Documentation](https://docs.djangoproject.com/en/1.11/)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org)
 * [Desconstruindo a Web](https://www.casadocodigo.com.br/products/livro-desconstruindo-web)
