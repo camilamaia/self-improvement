@@ -23,6 +23,7 @@ Subjects
 * Data Structures: Hashtables, Trees and Graphs mainly
 * Web Development / HTTP
 * Tests: unit, integration / TDD
+* Git
 * NP-complete problems
 * DDD - Domain Driven Design
 * Computer architecture
