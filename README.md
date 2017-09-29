@@ -12,6 +12,7 @@ Table of contents
   * [Daily](#daily)
   * [Events](#events)
   * [Projects](#projects)
+  * [Deutsche](#deutsche)
 
 Subjects
 =================
@@ -87,3 +88,10 @@ Events
 Projects
 =================
 
+
+Deutsche
+=================
+
+### Daily
+
+* [Ba Ba Dum](https://babadum.com)
