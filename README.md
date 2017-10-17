@@ -12,7 +12,6 @@ Table of contents
   * [Daily](#daily)
   * [Events](#events)
   * [Projects](#projects)
-  * [Deutsche](#deutsche)
 
 Subjects
 =================
@@ -23,6 +22,7 @@ Subjects
 * Sorting
 * Data Structures: Hashtables, Trees and Graphs mainly
 * Web Development / HTTP
+* Rest API architecture
 * Tests: unit, integration / TDD
 * Git
 * NP-complete problems
@@ -87,11 +87,3 @@ Events
 
 Projects
 =================
-
-
-Deutsche
-=================
-
-### Daily
-
-* [Ba Ba Dum](https://babadum.com)
