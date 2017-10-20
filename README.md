@@ -52,9 +52,11 @@ Courses
 ### Coursera
 
 * [Learn To Think Like A Computer Scientist](https://www.coursera.org/specializations/algorithms)
+* [Introduction to Logic](https://www.coursera.org/learn/logic-introduction?authMode=login)
 * [Master Algorithmic Programming Techniques](https://www.coursera.org/specializations/data-structures-algorithms)
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+
 
 ### MIT
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
