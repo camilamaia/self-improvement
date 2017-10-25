@@ -84,8 +84,8 @@ Events
 * Floripa Python Meetups
 * Django Girls
 * Ruby Conf
-- [x] [Inspiring Girls Brasil](http://ceme.org.br/inspiring-girls/)
-- [x] [Rails Girls](http://railsgirls.com)
+- [x] [Inspiring Girls Brasil](http://ceme.org.br/inspiring-girls/) (mentor)
+- [x] [Rails Girls](http://railsgirls.com) (mentor)
 - [x] [Ruby Floripa Meetups](https://www.meetup.com/rubyfloripa/)
 
 Projects
